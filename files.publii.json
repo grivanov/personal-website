@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "c8080bdb24a4c3c1d7861e4be8be01fe"
+        "md5": "abc59ff76b7f153eb6a903b0a158f2e5"
     },
     {
         "path": "assets",
@@ -22,7 +22,7 @@
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "212f60f726bf1fb9c15422069fc4b600"
+        "md5": "c315f2ca352b6afa6b8ecadeec23f382"
     },
     {
         "path": "/assets/css/photoswipe.css",
@@ -32,7 +32,12 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "fb2d2a64d4cebff5a24a8c0d356c850d"
+        "md5": "6ae99f666fd11d66b3182623d30f3b55"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
     },
     {
         "path": "assets/js",
@@ -52,12 +57,12 @@
     {
         "path": "/assets/js/scripts.js",
         "type": "file",
-        "md5": "29e3af53b87c8ff12466ebd1c0ba8e6d"
+        "md5": "e0c4d53c21e83015f166f4b853f8ade4"
     },
     {
         "path": "/assets/js/scripts.min.js",
         "type": "file",
-        "md5": "f4c4d35432d0e17d212f2fae4e0f8247"
+        "md5": "f47c11534595205f20935f0db2a62a85"
     },
     {
         "path": "/assets/js/svg-fix.js",
@@ -67,7 +72,7 @@
     {
         "path": "/assets/js/svg-map.js",
         "type": "file",
-        "md5": "350bb511eba46f390e88bbea74abb0ac"
+        "md5": "c02a714aae85e9bb30879a798f458527"
     },
     {
         "path": "assets/svg",
@@ -77,22 +82,17 @@
     {
         "path": "/assets/svg/gallery-icons-dark.svg",
         "type": "file",
-        "md5": "452594838e74a3df91ad4a20cf53c831"
+        "md5": "0c70735af58190b563b2940b7a07007a"
     },
     {
         "path": "/assets/svg/gallery-icons-light.svg",
         "type": "file",
-        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
-    },
-    {
-        "path": "/assets/svg/search.svg",
-        "type": "file",
-        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
     },
     {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "3c5bef20cd9e16841afe49cf089a6c20"
+        "md5": "25970b4dc9b91773247e995cb3d0318a"
     },
     {
         "path": "authors",
@@ -107,12 +107,12 @@
     {
         "path": "/authors/georgi-ivanov/index.html",
         "type": "file",
-        "md5": "2086f029d81b551690b0bef7c99af8e6"
+        "md5": "84c5b481ebfa70ad1f343b8ab0ed1ebf"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "234c3ff00e976f5e947c922d0d7a519d"
+        "md5": "ff6456e62e50e06ccbc7b7961e3ab42b"
     },
     {
         "path": "media",
@@ -170,11 +170,6 @@
         "md5": "50d8a018e8ae96732c8a2ba663c61d4e"
     },
     {
-        "path": "search.html",
-        "type": "file",
-        "md5": "56fb8cd7309e210fbb1ea51bf629f55e"
-    },
-    {
         "path": "tags",
         "type": "directory",
         "md5": false
@@ -182,7 +177,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "f4da4a80102b75eb146850d9a0fefb97"
+        "md5": "64819d51912834c860a8b500fd6c4b41"
     },
     {
         "path": "za-men",
@@ -192,6 +187,6 @@
     {
         "path": "/za-men/index.html",
         "type": "file",
-        "md5": "bcd5d1dc7e143de846d4212e63e0c306"
+        "md5": "69d0129fc2ef4a850796b788d96805ee"
     }
 ]
